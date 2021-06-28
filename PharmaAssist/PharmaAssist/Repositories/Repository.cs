@@ -8,7 +8,7 @@ namespace PharmaAssist.Repositories
 {
     public class Repository<T> : IRepository<T> where T : class
     {
-        PharmaAssistDB contex = new PharmaAssistDB();
+        protected PharmaAssistDB contex = new PharmaAssistDB();
         public void Delete(T entity)
         {
             this.contex.Set<T>().Remove(entity);

@@ -12,8 +12,9 @@ namespace PharmaAssist.Models
         public int Id { get; set; }
         [Required]
         public string Name { get; set; }
-        [Required]
-        public int LoginId { get; set; }
+     
+        public int? LoginId { get; set; }
+        public int? SpecialistId { get; set; }
         [Required]
         public string Email { get; set; }
         [Required]
@@ -31,7 +32,9 @@ namespace PharmaAssist.Models
         [Required]
         public DateTime Dob { get; set; }
         public virtual Login Login { get; set; }
-        public virtual ICollection<Doctor> Doctors { get; set; }
+        public virtual Specialist Specialist { get; set; }
+
+
         public virtual ICollection<BlogPost> BlogPosts { get; set; }
     }
 }
