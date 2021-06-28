@@ -13,7 +13,7 @@ namespace PharmaAssist.Models
         [Required]
         public string Name { get; set; }
         [Required]
-        public int LoginId { get; set; }
+        public int? LoginId { get; set; }
         [Required]
         public string Email { get; set; }
         [Required]

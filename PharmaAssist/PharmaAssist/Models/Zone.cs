@@ -13,7 +13,7 @@ namespace PharmaAssist.Models
         [Required]
         public string Name { get; set; }
         [Required]
-        public int DeliveryManId { get; set; }
+        public int? DeliveryManId { get; set; }
         public virtual DeliveryMan DeliveryMan { get; set; }
     }
 }

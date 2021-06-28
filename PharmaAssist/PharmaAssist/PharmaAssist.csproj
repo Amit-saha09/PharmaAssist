@@ -151,6 +151,7 @@
     <Compile Include="Models\ProblemPost.cs" />
     <Compile Include="Models\Product.cs" />
     <Compile Include="Models\Slot.cs" />
+    <Compile Include="Models\Specialist.cs" />
     <Compile Include="Models\Status.cs" />
     <Compile Include="Models\Zone.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
