@@ -247,3 +247,5 @@ G:\Amitsaha\PharmaAssist\PharmaAssist\PharmaAssist\obj\Debug\PharmaAssist.csproj
 G:\Amitsaha\PharmaAssist\PharmaAssist\PharmaAssist\obj\Debug\PharmaAssist.csproj.CopyComplete
 G:\Amitsaha\PharmaAssist\PharmaAssist\PharmaAssist\obj\Debug\PharmaAssist.dll
 G:\Amitsaha\PharmaAssist\PharmaAssist\PharmaAssist\obj\Debug\PharmaAssist.pdb
+H:\.net tiutorial\PharmaAssist\PharmaAssist\obj\Debug\PharmaAssist.Migrations.initial.resources
+H:\.net tiutorial\PharmaAssist\PharmaAssist\obj\Debug\PharmaAssist.csproj.GenerateResource.cache
