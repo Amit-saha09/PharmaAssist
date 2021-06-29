@@ -335,3 +335,7 @@ D:\PharmaAssist\PharmaAssist\PharmaAssist\obj\Debug\PharmaAssist.csproj.CoreComp
 D:\PharmaAssist\PharmaAssist\PharmaAssist\obj\Debug\PharmaAssist.csproj.CopyComplete
 D:\PharmaAssist\PharmaAssist\PharmaAssist\obj\Debug\PharmaAssist.dll
 D:\PharmaAssist\PharmaAssist\PharmaAssist\obj\Debug\PharmaAssist.pdb
+D:\PharmaAssist\PharmaAssist\PharmaAssist\bin\roslyn\System.Buffers.dll
+D:\PharmaAssist\PharmaAssist\PharmaAssist\bin\roslyn\System.Memory.dll
+D:\PharmaAssist\PharmaAssist\PharmaAssist\bin\roslyn\System.Numerics.Vectors.dll
+D:\PharmaAssist\PharmaAssist\PharmaAssist\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll

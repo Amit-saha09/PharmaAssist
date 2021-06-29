@@ -13,5 +13,15 @@ namespace PharmaAssist.Controllers
         {
             return View();
         }
+
+        public ActionResult AdminsManagement()
+        {
+            return View();
+        }
+
+        public ActionResult ManagersManagement()
+        {
+            return View();
+        }
     }
 }
