@@ -25,6 +25,7 @@ namespace PharmaAssist2._0.Models
         [Required]
         public string Image { get; set; }
 
+        public HttpPostedFileBase Imagefile { get; set; }   
 
         [Required]
         public string Gender { get; set; }
